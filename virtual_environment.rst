@@ -65,7 +65,7 @@ Puede usar ``smartcd`` es una librería para ``bash`` y ``zsh`` que le permite a
 su entorno ``bash`` (o ``zsh``) cuando cambia de directorio ``cd``. Esto puede ser
 realmente una ayuda para activar o desactivar un ``virtualenv`` cuando usted cambie
 directorios. Lo he usado bastante y me encanta. Usted puede leer más acerca de esto
-en ``GitHub <https://github.com/cxreg/smartcd>``__
+en `GitHub <https://github.com/cxreg/smartcd>`__
 
 Esto fue solo una breve introducción a ``virtualenv``. hay mucha más información sobre
-este tema en este ``enlace <http://docs.python-guide.org/en/latest/dev/virtualenvs/>``__.
+este tema en este `enlace <http://docs.python-guide.org/en/latest/dev/virtualenvs/>`__.
