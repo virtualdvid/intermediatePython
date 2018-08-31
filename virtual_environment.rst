@@ -68,4 +68,4 @@ directorios. Lo he usado bastante y me encanta. Usted puede leer más acerca de 
 en ``GitHub <https://github.com/cxreg/smartcd>``__
 
 Esto fue solo una breve introducción a ``virtualenv``. hay mucha más información sobre
-este tema en este ``enlace <http://docs.python-guide.org/en/latest/dev/virtualenvs/>``.
+este tema en este ``enlace <http://docs.python-guide.org/en/latest/dev/virtualenvs/>``__.
