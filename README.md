@@ -77,10 +77,10 @@ Traducciones:
 -------------
 Si usted desea traducir este libro en algún otro lenguaje amablemente déjeme [saber](mailto:yasoob.khld@gmail.com). Amaré su contribución. La lista de versiones traducidas son las siguientes:
 
-- [Chinese](https://github.com/eastlakeside/interpy-zh)
-- [Russian](https://github.com/lancelote/interpy-ru)
-- [Korean](https://github.com/DDanggle/interpy-kr)
-- [Portuguese](https://github.com/joanasouza/intermediatePython)
+- [Chino](https://github.com/eastlakeside/interpy-zh)
+- [Ruso](https://github.com/lancelote/interpy-ru)
+- [Koreano](https://github.com/DDanggle/interpy-kr)
+- [Portugués](https://github.com/joanasouza/intermediatePython)
 - [Español](https://github.com/virtualdvid/interpy-es)
 
 Licencia:
@@ -95,8 +95,7 @@ Contribuya:
 
 Si le gustó la iniciativa de traducir este libro al español y desea colaborar por favor siga los siguientes pasos:
 
-1. Realice un **fork** de este [repositorio]
-(https://github.com/virtualdvid/interpy-es`).
+1. Realice un **fork** de este [repositorio](https://github.com/virtualdvid/interpy-es`).
 2. Clone **su** repositorio.
 3. Abra un [issue](https://github.com/virtualdvid/interpy-es/issues) informando el capítulo que desea traducir.
 5. Envié un `pull request` con lo que usted quiere traducir.
